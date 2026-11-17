@@ -1,0 +1,4 @@
+interface:
+  display_name: "钉钉超级报销助手"
+  short_description: "核对报销票据和缺件，导出钉钉审批并准备超级报销草稿"
+  default_prompt: "用 $dingtalk-super-reimbursement 核对这次报销的票据和凭证，列出缺件和待确认的规则。"
